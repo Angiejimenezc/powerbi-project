@@ -25,7 +25,7 @@ Se desarrollaron visualizaciones interactivas para facilitar la comprensión de 
 
 ### 4. **Cuadro de visualización**
 Puedes ver un resumen de las visualizaciones en el archivo PDF incluido en este proyecto:  
-[Cuadro de Visualización en PDF](./docs/cuadro_visualizacion.pdf)
+[Cuadro de Visualización en PDF](./docs/Powerbi_projet.pdf)
 
 
 ## Datos del proyecto
