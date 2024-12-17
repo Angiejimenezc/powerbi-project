@@ -23,9 +23,10 @@ Se desarrollaron visualizaciones interactivas para facilitar la comprensión de 
 - **Tablas y matrices**: Detalle tabular y agregado de los datos.
 - **Paneles de filtro**: Navegación intuitiva para segmentar los datos.
 
-### 4. **Interactividad**
-Se añadieron elementos interactivos como:
-- **Marcadores y botones de navegación**: Para mejorar la experiencia del usuario y permitir la exploración de los datos.
+### 4. **Cuadro de visualización**
+Puedes ver un resumen de las visualizaciones en el archivo PDF incluido en este proyecto:  
+[Cuadro de Visualización en PDF](./docs/cuadro_visualizacion.pdf)
+
 
 ## Datos del proyecto
 Los datos utilizados en este análisis provienen del conjunto de datos **Marketing Campaign**, disponible en Kaggle. Puedes descargarlos desde la siguiente URL:  
